@@ -1,0 +1,52 @@
+{
+  "lastVerified": "2026-11-26",
+  "sourceReference": "https://freightclasskit.com/guides/carrier-reweigh-thresholds",
+  "note": "Base published rules-tariff benchmarks; individual shipper master pricing agreements (MRAs) may supersede.",
+  "carriers": [
+    {
+      "id": "xpo",
+      "name": "XPO Freight",
+      "tariff": "CNWY-199 (Item 239)",
+      "weightToleranceLbs": 25,
+      "disputeWindowDays": 30,
+      "typicalWiFeeUsd": "50-95",
+      "officialPortal": "https://www.xpo.com/tariff-library/"
+    },
+    {
+      "id": "fedex",
+      "name": "FedEx Freight",
+      "tariff": "FXF 100 Series (Items 980 / 981)",
+      "weightToleranceLbs": 50,
+      "disputeWindowDays": 180,
+      "typicalWiFeeUsd": "45-125",
+      "officialPortal": "https://www.fedexfreight.com/en-us"
+    },
+    {
+      "id": "estes",
+      "name": "Estes Express",
+      "tariff": "EXLA 105 (Item 992)",
+      "weightToleranceLbs": 25,
+      "disputeWindowDays": 90,
+      "typicalWiFeeUsd": "40-90",
+      "officialPortal": "https://www.estes-express.com/resources/fees-and-surcharges/"
+    },
+    {
+      "id": "saia",
+      "name": "Saia LTL",
+      "tariff": "SAIA 170 (Item 850)",
+      "weightToleranceLbs": 25,
+      "disputeWindowDays": 60,
+      "typicalWiFeeUsd": "45-100",
+      "officialPortal": "https://www.saia.com/resources/rules-tariffs"
+    },
+    {
+      "id": "odfl",
+      "name": "Old Dominion (ODFL)",
+      "tariff": "ODFL 100 (Items 367 / 561)",
+      "weightToleranceLbs": 50,
+      "disputeWindowDays": 180,
+      "typicalWiFeeUsd": "35-85",
+      "officialPortal": "https://www.odfl.com/us/en/resources/tariffs.html"
+    }
+  ]
+}

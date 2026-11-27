@@ -1,0 +1,6 @@
+carrier,rules_tariff,weight_tolerance_lbs,dispute_window_days,typical_wi_fee_usd,official_tariff_portal,last_verified
+XPO Freight,CNWY-199 (Item 239),25,30,50-95,https://www.xpo.com/tariff-library/,2026-11-26
+FedEx Freight,FXF 100 Series (Items 980 / 981),50,180,45-125,https://www.fedexfreight.com/en-us,2026-11-26
+Estes Express,EXLA 105 (Item 992),25,90,40-90,https://www.estes-express.com/resources/fees-and-surcharges/,2026-11-26
+Saia LTL,SAIA 170 (Item 850),25,60,45-100,https://www.saia.com/resources/rules-tariffs,2026-11-26
+Old Dominion (ODFL),ODFL 100 (Items 367 / 561),50,180,35-85,https://www.odfl.com/us/en/resources/tariffs.html,2026-11-26

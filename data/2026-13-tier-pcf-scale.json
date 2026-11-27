@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "2026-docket-2025-1",
+  "lastVerified": "2026-11-27",
+  "sourceReference": "https://freightclasskit.com/freight-class-chart",
+  "disclaimer": "Public 13-tier density reference scale. Confirm official 6-digit NMFC item and sub with your carrier or NMFTA ClassIT+.",
+  "tiers": [
+    { "sub": 1, "minPcf": 0, "maxPcfExclusive": 1, "freightClass": "400" },
+    { "sub": 2, "minPcf": 1, "maxPcfExclusive": 2, "freightClass": "300" },
+    { "sub": 3, "minPcf": 2, "maxPcfExclusive": 4, "freightClass": "250" },
+    { "sub": 4, "minPcf": 4, "maxPcfExclusive": 6, "freightClass": "175" },
+    { "sub": 5, "minPcf": 6, "maxPcfExclusive": 8, "freightClass": "125" },
+    { "sub": 6, "minPcf": 8, "maxPcfExclusive": 10, "freightClass": "100" },
+    { "sub": 7, "minPcf": 10, "maxPcfExclusive": 12, "freightClass": "92.5" },
+    { "sub": 8, "minPcf": 12, "maxPcfExclusive": 15, "freightClass": "85" },
+    { "sub": 9, "minPcf": 15, "maxPcfExclusive": 22.5, "freightClass": "70" },
+    { "sub": 10, "minPcf": 22.5, "maxPcfExclusive": 30, "freightClass": "65" },
+    { "sub": 11, "minPcf": 30, "maxPcfExclusive": 35, "freightClass": "60" },
+    { "sub": 12, "minPcf": 35, "maxPcfExclusive": 50, "freightClass": "55" },
+    { "sub": 13, "minPcf": 50, "maxPcfExclusive": null, "freightClass": "50" }
+  ]
+}
